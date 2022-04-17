@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Salem137
+- 👋 Hi, I’m Salem Kinrin
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me 08036459769  or Kinrinsalem@gmail.com
--   I am also a nerd
 
 <!---
 Salem137/Salem137 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
