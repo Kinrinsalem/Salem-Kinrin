@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Salem Kinrin
-- 👀 I’m interested in coding
+- 👀 I’m interested in frontend developement
 - 🌱 I’m currently working with JavaScript
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me 08036459769  or Kinrinsalem@gmail.com
